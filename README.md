@@ -8,20 +8,18 @@
 
 聚合搜索页面-搜文章:
 
-![d6e3ad0cc8f545a2a9d5db64dc6b2d61](file:///C:/Users/blablablala/Pictures/Typedown/d6e3ad0c-c8f5-45a2-a9d5-db64dc6b2d61.png?msec=1681536792153)
+![d6e3ad0c-c8f5-45a2-a9d5-db64dc6b2d61](file:///C:/Users/blablablala/Pictures/Typedown/d6e3ad0c-c8f5-45a2-a9d5-db64dc6b2d61.png)
 
 聚合搜索—搜图片
 
-![5c3dc8418ca741a08b4db461933e3bc4](file:///C:/Users/blablablala/Pictures/Typedown/5c3dc841-8ca7-41a0-8b4d-b461933e3bc4.png?msec=1681536792161)
+![5c3dc841-8ca7-41a0-8b4d-b461933e3bc4](file:///C:/Users/blablablala/Pictures/Typedown/5c3dc841-8ca7-41a0-8b4d-b461933e3bc4.png)
 
 聚合搜索-搜用户
 
-![a162cf6103114a75b8cc8d6d364750d4](file:///C:/Users/blablablala/Pictures/Typedown/a162cf61-0311-4a75-b8cc-8d6d364750d4.png?msec=1681536792154)
+![a162cf61-0311-4a75-b8cc-8d6d364750d4](file:///C:/Users/blablablala/Pictures/Typedown/a162cf61-0311-4a75-b8cc-8d6d364750d4.png)
 
 ## 项目架构
-
-![35606e7a7aa841848381156e986dae32](file:///C:/Users/blablablala/Pictures/Typedown/35606e7a-7aa8-4184-8381-156e986dae32.png?msec=1681536792155)
-
+<img title="" src="file:///C:/Users/blablablala/Pictures/Typedown/35606e7a-7aa8-4184-8381-156e986dae32.png" alt="35606e7a-7aa8-4184-8381-156e986dae32" style="zoom:67%;">
 ## 技术选型
 
 ### 后端
