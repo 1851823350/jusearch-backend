@@ -18,8 +18,6 @@ import java.util.Map;
 /**
  * 获取初始帖子列表(爬虫)
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 // 取消注释后，每次启动 springboot 项目时会执行一次 run 方法
 @Component
